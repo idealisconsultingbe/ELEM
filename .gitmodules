@@ -1,0 +1,4 @@
+[submodule "ic_common"]
+	path = ic_common
+	url = git@git.myidealis.be:ic_common/addons.git
+	branch = 13.0
